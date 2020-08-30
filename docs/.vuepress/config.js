@@ -1,7 +1,7 @@
 module.exports = {
   title: "YogurtCat企业开发平台(单体架构)",
   description: "Just playing around",
-  base: "/yogurtcat-monolithic/",
+  base: "/yogurtcat-monolithic-doc/",
   themeConfig: {
     nav: [
       { text: "主页", link: "/" },
